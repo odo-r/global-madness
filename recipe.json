@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "title": "Global Madness",
+  "tagline": "The Outlast Trials and Hearts of Iron IV side-by-side mashup",
+  "author": "odo-r",
+  "license": "MIT",
+  "recipe": {
+    "together": true,
+    "primary": {
+      "slug": "the-outlast-trials",
+      "executable": "TOT/Binaries/Win64/TheOutlastTrials-Win64-Shipping.exe"
+    },
+    "companion": {
+      "slug": "hearts-of-iron-iv",
+      "executable": "hoi4.exe"
+    }
+  }
+}
